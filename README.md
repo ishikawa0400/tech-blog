@@ -1,3 +1,11 @@
-# Zenn CLI
+### to create a new post
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+```
+npx zenn new:article
+```
+
+### to watch the preview
+
+```
+npx zenn preview
+```
